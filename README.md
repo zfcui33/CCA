@@ -1,7 +1,7 @@
 # Cross-view Consistent Attention: Transformer-based Geo-localization for UAV and Satellite Images
 ## Dataset
 
-download the dataset see : https://github.com/layumi/University1652-Baseline
+Download the dataset in: https://github.com/layumi/University1652-Baseline
 
 ## Pre-trained model
 The pre-trained modlel can be downloaded in: https://drive.google.com/drive/folders/1No434KX6imMgQgMk7TN5b7DCm1ZGnia3?usp=share_link
